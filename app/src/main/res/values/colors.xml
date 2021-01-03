@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1D3169</color>
+    <color name="colorPrimaryDark">#262E5F</color>
+    <color name="colorAccent">#7CC9D0</color>
+    <color name="activityBackground">#E8EAEE</color>
+    <color name="toolbarBackground">#1D3169</color>
+    <color name="toolbarTitle">#FFFFFF</color>
+    <color name="deepOrange">#FF5722</color>
+    <color name="green">#4CAF50</color>
+    <color name="pijama">#F4F5F9</color>
+    <color name="recyclerViewDividerColor">#B8BECE</color>
+    <color name="titleColor">#FFFFFF</color>
+    <color name="detailColor">#666565</color>
+    <color name="searchTextColor">#7CC9D0</color>
+    <color name="searchCursorColor">#7CC9D0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blueTextColor">#262E5F</color>
+    <color name="lightBlueTextColor">#8698BC</color>
+    <color name="textColor">#777777</color>
+    <color name="sortLayoutBgColor">#F3F1F1</color>
+    <color name="colorPrimarya">#276BCC</color>
+</resources>

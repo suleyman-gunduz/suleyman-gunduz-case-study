@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Suleyman Gunduz</string>
+    <string name="search_label">Search Label</string>
+    <string name="rating">Rating</string>
+    <string name="sort_by_version">Sort By Version</string>
+    <string name="sort_by_platform">Sort By Platform</string>
+    <string name="sort_by_rating">Sort By Rating</string>
+    <string name="statistics">Statistics</string>
+    <string name="rating_count">Feedback Count</string>
+    <string name="average_rating">AVG. RATING</string>
+    <string name="most_approved_platform">Approved Platform</string>
+    <string name="most_refused_platform">Refused Platform</string>
+    <string name="most_approved_browser">Approved Browser</string>
+    <string name="most_refused_browser">Refused Browser</string>
+    <string name="platform_distribution">Platform Distribution Chart</string>
+    <string name="browser_distribution">Browser Distribution Chart</string>
+    <string name="country_distribution">Country Distribution Chart</string>
+    <string name="average_ratings_per_platform">Average Ratings Per Platform Chart</string>
+    <string name="average_ratings_per_browser">Average Ratings Per Browser Chart</string>
+    <string name="average_ratings_per_country">Average Ratings Per Country Chart</string>
+    <string name="platforms">Platforms</string>
+    <string name="countries">Countries</string>
+    <string name="browsers">Browsers</string>
+</resources>
