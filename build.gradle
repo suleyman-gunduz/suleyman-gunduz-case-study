@@ -28,21 +28,7 @@ ext {
 
     retrofitVersion = "2.3.0"
 
-    okHttpVersion = "3.10.0"
-
-    gsonVersion = "2.8.5"
-
     retrofitVersion = "2.3.0"
-
-    timberVersion = "4.7.1"
-
-    leakcanaryVersion = "1.5.4"
-
-    rxJavaVersion = "2.1.8"
-
-    rxAndroidVersion = "2.0.1"
-
-    rxJavaVersion = "2.1.8"
 
     roomVersion = "1.1.1"
 }
